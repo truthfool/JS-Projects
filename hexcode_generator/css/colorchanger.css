@@ -1,0 +1,28 @@
+.bg{
+  white-space: nowrap;
+}
+.nav-item-1
+{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 600px;
+
+}
+.bg
+{
+  margin-top: 300px;
+  text-align: center;
+  background-position: center;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
+#clickme{
+  border-radius: 5px;
+    margin-left: 480px;
+    font-size: 40px;
+    border-color: white;
+}
+#change{
+  color: cyan;
+}
